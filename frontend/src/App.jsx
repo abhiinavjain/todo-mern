@@ -16,7 +16,7 @@ function App() {
   //   })
 
   return (
-    <div>
+    <div className='MainCointiainer' >
       <CreateTodo></CreateTodo>
       <Todos todos={todos}></Todos>
     </div>
