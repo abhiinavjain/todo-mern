@@ -1,0 +1,17 @@
+h1{
+    color: black;
+}
+
+body{
+    background-color: bisque;
+}
+
+.MainCointiainer{
+    place-items: center;
+    display: grid;
+    height: 10vh;
+    padding-top: 50;
+}
+.title{
+    color: blue;
+}
